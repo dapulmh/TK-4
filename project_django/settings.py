@@ -40,6 +40,17 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'example_app',
+    'badminton',
+    'cru_pengguna',
+    'dashboard',
+    'cru_tes_kualifikasi',
+    'cr_daftar_atlet',
+    'cru_daftar_event',
+    'enrolled_event',
+    'daftar_sponsor',
+    'event_umpire',
+    'pertandingan',
+    'hasil_pertandingan',
 ]
 
 MIDDLEWARE = [
